@@ -1,0 +1,7 @@
+problem,dimension,configuration,best,worst,mean,median,std,success_rate,evaluations,pop_size,elite,crossover_prob,selection,crossover,mutation
+OneMax,100,zakladni,100,100,100.0,100.0,0.0,1.0,10000,50,0.15,0.85,rank,one_point,0.01
+LeadingOnes,100,pop_30,90,61,78.7,79.5,8.556284240252891,0.0,10000,30,0.15,0.85,rank,one_point,0.01
+OneMax,30,zakladni,30,30,30.0,30.0,0.0,1.0,3000,50,0.15,0.85,rank,one_point,0.01
+LeadingOnes,30,two_point,30,28,29.8,30.0,0.6,0.9,3000,50,0.15,0.85,rank,two_point,0.01
+OneMax,10,zakladni,10,10,10.0,10.0,0.0,1.0,1000,50,0.15,0.85,rank,one_point,0.01
+LeadingOnes,10,zakladni,10,10,10.0,10.0,0.0,1.0,1000,50,0.15,0.85,rank,one_point,0.01
